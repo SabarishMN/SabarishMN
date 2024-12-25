@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+I'm+Sabarish+Muthumani!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-
 ---
 
 <div align="center">
@@ -66,6 +65,11 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabarishMN&theme=radical" alt="GitHub Streak" />
 </div>
 
+## 🔢 Visitor Count
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SabarishMN&title=Visitors&style=flat-square&color=blue" alt="Visitor Count" />
+</div>
+
 ---
 
 ## 📫 Connect with Me
@@ -77,3 +81,5 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+---
