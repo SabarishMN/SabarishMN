@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 # 🌟 About Me
 
 I am a **Master of Science in Computer Engineering** student at **Virginia Tech (2023-2025)** with a **GPA of 3.8**.  
@@ -63,7 +65,6 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SabarishMN&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabarishMN&theme=radical" alt="GitHub Streak" />
-  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </div>
 
 ---
