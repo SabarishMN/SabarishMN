@@ -14,3 +14,83 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+I'm+Sabarish+Muthumani!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+</div>
+
+---
+
+# 🌟 About Me
+
+I am a **Master of Science in Computer Engineering** student at **Virginia Tech (2023-2025)** with a **GPA of 3.8**.  
+My passion lies in **Generative AI**, **real-time systems**, and **software engineering**. I enjoy solving challenging problems and building scalable systems. 🚀
+
+---
+
+## 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+## 💼 Work Experience
+
+### **Virginia Tech IT (July 2024 - Present)**  
+**Role**: Graduate Platform Assistant  
+- Optimized Linux systems, managed storage, and configured Cisco switches and firewalls.
+- Deployed monitoring tools like **Zabbix** and automated resource provisioning using **Ansible**.  
+
+### **Mouri Tech (May - July 2024)**  
+**Role**: AI Analyst Intern  
+- Reduced manual testing time by 40% using **Retrieval-Augmented Generation (RAG)** frameworks.  
+- Built vectorized search models, document intelligence tools, and an interactive chatbot.
+
+### **Cisco Systems, Inc. (April 2022 - August 2023)**  
+**Role**: Software Engineer  
+- Built asynchronous RESTful APIs and resolved over 10+ critical bugs, including XSS vulnerabilities.  
+- Upgraded customer migration workflows for over 500 clients using **Node.js**.
+
+---
+
+## 🚀 Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Interactive Chatbot](https://github.com/SabarishMN/interactive-chatbot) | Real-time chatbot using **Deepgram** and **Groq** | Python |
+| [RAG Document Analysis](https://github.com/SabarishMN/rag-doc-analysis) | Automated invoice analysis using **Azure AI** | Python |
+| [Arduino Real-Time Scheduling](https://github.com/SabarishMN/arduino-scheduling) | Implemented RMS, DMS, and EDF on FreeRTOS | C/C++, FreeRTOS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabarishMN&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabarishMN&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Connect with Me
+<div align="center">
+  <a href="https://linkedin.com/in/sabarishmn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SabarishMN">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
