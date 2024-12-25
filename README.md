@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-
 # 🌟 About Me
 
 I am a **Master of Science in Computer Engineering** student at **Virginia Tech (2023-2025)** with a **GPA of 3.8**.  
