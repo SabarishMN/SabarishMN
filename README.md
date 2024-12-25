@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&width=435&lines=Hi%2C+I'm+Sabarish+Muthumani!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=F75C7E&center=true&width=600&lines=Hi%2C+I'm+Sabarish+Muthumani!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
+
 
 ---
 
