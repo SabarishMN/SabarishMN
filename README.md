@@ -53,8 +53,8 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
 ## 🚀 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Interactive Chatbot](https://github.com/SabarishMN/interactive-chatbot) | Real-time chatbot using **Deepgram** and **Groq** | Python |
-| [RAG Document Analysis](https://github.com/SabarishMN/rag-doc-analysis) | Automated invoice analysis using **Azure AI** | Python |
+| [Interactive Chatbot](https://github.com/SabarishMN/chatbot-RAG) | Real-time chatbot using **Deepgram** and **Groq** | Python |
+| [RAG Document Analysis](https://github.com/SabarishMN/genAI) | Automated invoice analysis using **Azure AI** | Python |
 | [Arduino Real-Time Scheduling](https://github.com/SabarishMN/arduino-scheduling) | Implemented RMS, DMS, and EDF on FreeRTOS | C/C++, FreeRTOS |
 
 ---
@@ -77,22 +77,3 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
----
-
-## 💼 Work Experience
-
-### **Virginia Tech IT (July 2024 - Present)**  
-**Role**: Graduate Assistant  
-- Optimized Linux systems, managed storage, and configured Cisco switches and firewalls.
-- Deployed monitoring tools like **Zabbix** and automated resource provisioning using **Ansible**.  
-
-### **Mouri Tech (May - July 2024)**  
-**Role**: AI Analyst Intern  
-- Reduced manual testing time by 40% using **Retrieval-Augmented Generation (RAG)** frameworks.  
-- Built vectorized search models, document intelligence tools, and an interactive chatbot.
-
-### **Cisco Systems, Inc. (April 2022 - August 2023)**  
-**Role**: Software Engineer  
-- Built asynchronous RESTful APIs and resolved over 10+ critical bugs, including XSS vulnerabilities.  
-- Upgraded customer migration workflows for over 500 clients using **Node.js**.
