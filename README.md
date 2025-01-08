@@ -62,7 +62,7 @@ My passion lies in **Generative AI**, **real-time systems**, and **software engi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SabarishMN&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabarishMN&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabarishMN&theme=radical" alt="GitHub Streak" /> -->
 </div>
 
 ---
